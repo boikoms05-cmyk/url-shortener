@@ -19,5 +19,5 @@ A containerized URL shortening microservice built with FastAPI and Redis, comple
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/](https://github.com/)boikoms05-cmyk/url-shortener.git
+   git clone https://github.com/boikoms05-cmyk/url-shortener.git
    cd url-shortener
